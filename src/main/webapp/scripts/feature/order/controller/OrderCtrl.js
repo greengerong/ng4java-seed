@@ -6,3 +6,7 @@
  * github: https://github.com/greengerong *
  *                                        *
  ******************************************/
+
+(function (gobal, angular) {
+
+})(this, angular);
