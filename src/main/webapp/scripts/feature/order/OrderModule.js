@@ -9,9 +9,6 @@
 
 (function (gobal, angular) {
 
-    angular.module('order')
-        .controller("OrderCtrl", [function () {
-
-        }]);
+    angular.module('order', []);
 
 })(this, angular);
